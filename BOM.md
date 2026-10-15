@@ -1,6 +1,6 @@
 # Lista de Materiales (Bill of Materials - BOM)
 
-| Cantidad | Componente | Modelo / Especificación | Propósito |
+| Cantidad | Componente | Modelo / Especificación | Propósito | Link |
 | :--- | :--- | :--- | :--- |
 | 1 | Microcontrolador | Nordic Semiconductor nRF54LM20 DevKit | Procesamiento de Edge AI, BLE y gestión de energía |
 | 1 | Sensor de Humedad | Watermark 200SS | Medición de tensión hídrica del suelo |
@@ -9,3 +9,4 @@
 | 1 | Batería | LiPo 3.7V / 2500mAh | Almacenamiento energético nocturno/días nublados |
 | 1 | Actuador | Válvula Solenoide Latch 3V/9V DC | Control de paso de agua de bajo consumo |
 | 1 | Driver de Potencia | Puente H / Driver MOSFET de bajo consumo | Interfaz de potencia para la válvula |
+| 1 | Poliducto 1/4 in | Para el riego automatico, flujo de agua | 
